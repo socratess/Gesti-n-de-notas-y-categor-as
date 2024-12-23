@@ -1,0 +1,19 @@
+# Dependencias de Node
+/node_modules/
+/build/
+
+# Archivos de lock
+package-lock.json
+yarn.lock
+
+# Archivos de configuración del IDE
+/.idea/
+/.vscode/
+*.swp
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Configuración de git
+*.orig

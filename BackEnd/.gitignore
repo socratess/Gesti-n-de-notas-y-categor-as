@@ -1,0 +1,22 @@
+
+/target/
+*.iml
+*.class
+*.log
+*.jar
+*.war
+*.ear
+dependency-reduced-pom.xml
+.mvn/
+
+# Configuración del IDE
+/.idea/
+/.vscode/
+*.swp
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Configuración de git
+*.orig
